@@ -1,0 +1,2 @@
+ball_chaser:main:my_robot:where_am_i
+-DCATKIN_DEVEL_PREFIX=/home/jiawei/udacity_ws/devel -DCMAKE_INSTALL_PREFIX=/home/jiawei/udacity_ws/install -G Unix Makefiles
