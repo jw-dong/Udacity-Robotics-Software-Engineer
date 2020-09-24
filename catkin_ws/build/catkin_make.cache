@@ -1,0 +1,2 @@
+ball_chaser:main:my_robot:odom_to_trajectory:robot_pose_ekf:simple_arm:turtlebot/turtlebot:turtlebot/turtlebot_bringup:turtlebot/turtlebot_capabilities:turtlebot/turtlebot_description:turtlebot/turtlebot_teleop:turtlebot_simulator/turtlebot_gazebo:turtlebot_simulator/turtlebot_simulator:turtlebot_simulator/turtlebot_stage:turtlebot_simulator/turtlebot_stdr:where_am_i
+-DCATKIN_DEVEL_PREFIX=/home/robond/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/robond/catkin_ws/install -G Unix Makefiles
