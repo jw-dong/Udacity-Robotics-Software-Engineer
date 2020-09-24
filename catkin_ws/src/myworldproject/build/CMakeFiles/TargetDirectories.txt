@@ -1,3 +1,0 @@
-/home/workspace/myworldproject/build/CMakeFiles/edit_cache.dir
-/home/workspace/myworldproject/build/CMakeFiles/myplugin.dir
-/home/workspace/myworldproject/build/CMakeFiles/rebuild_cache.dir
