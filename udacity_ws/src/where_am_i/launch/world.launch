@@ -32,6 +32,6 @@
 						 -x $(arg x) -y $(arg y) -z $(arg z) -R $(arg roll) -P $(arg pitch) -Y $(arg yaw)"/>
 
 	<!-- Launch RViz -->
-	<!-- node name="rviz" pkg="rviz" type="rviz" respawn="false"/ -->
+	<node name="rviz" pkg="rviz" type="rviz" respawn="false" args="-d $(find where_am_i)/rviz/where_am_i.rviz"/>
 
 </launch>
